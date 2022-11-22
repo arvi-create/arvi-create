@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arvi-create
+- 👋 Hi, I’m Arvind Krishnan
 - 👀 I’m interested in Data Analytics, Data Visualisation, Data Science.
 - 🌱 I’m currently learning Data Analytics and Data Visualisation
 - 💞️ I’m looking to collaborate on Data Science and Data Analytics Projects
